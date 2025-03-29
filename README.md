@@ -1,7 +1,7 @@
 # Google-PlayStore-Analysis
 ![Image](https://github.com/user-attachments/assets/0b05b96b-91f4-4673-9a52-8d10ba365f7a)
 ## Project Overview
-This project involved analyzing a large dataset of Google Play Store apps to explore app performance, user engagement, and market trends. 
+This project involved analyzing a large dataset of Google Play Store apps to explore app performance, user engagement, and market trends. The dataset was provided by HNG Internship.
 
 ### Tools Used
 * Python – Data exploration and cleaning
